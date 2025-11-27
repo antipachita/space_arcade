@@ -1057,7 +1057,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 308.3698, y: 63.761204, z: 31.085539}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2533313849676598418}
@@ -1130,7 +1130,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   deathVFX: {fileID: 3200836327345539238, guid: c084410430bfa5c45b327bdd602b1320, type: 3}
   hitVFX: {fileID: 3200836327345539238, guid: 564d083674f07e64b8d763d2b03d0319, type: 3}
-  parent: {fileID: 0}
   points: 40
   hitPoints: 4
 --- !u!1 &5551472801873828612
